@@ -1,3 +1,4 @@
+###### 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Header One
@@ -10,5 +11,14 @@ Close to middle size
 Even Smaller now
 ##### Header Five
 Keen that only the '#' symbol is needed
-###### Header Six
-... but it does throw off header spacing; if that is important!
+###### Header Six ... Formatting Code
+
+TSQL
+``` tsql
+select * from MyFile where MyFile.ID = 34
+```
+
+Javascript
+``` javascript
+var myVar = "Hello, World!";
+```
