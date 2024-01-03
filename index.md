@@ -12,7 +12,7 @@ Close to middle size
 #### Header Four ... Checklists
 - [x] First things first
 - [x] Keep going in the middle
-- [ ] Wrap things up
+- [x] Wrap things up
 
 ##### Header Five ... Formatting Code
 ###### TSQL
