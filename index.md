@@ -10,8 +10,8 @@ Smaller now
 Close to middle size
 
 #### Header Four ... Checklists
-- [ ] First things first
-- [ ] Keep going in the middle
+- [x] First things first
+- [x] Keep going in the middle
 - [ ] Wrap things up
 
 ##### Header Five ... Formatting Code
